@@ -81,14 +81,10 @@ That is so funny! :joy:
 
 Highlight
 
-I need to highlight these 
-==very important words==
-.
+I need to highlight these <mark>very important words</mark>
 
 Subscript	
-
 H<sub>2</sub>O
 
 Superscript	
-
-X^2^
+X<sup>2</sup>
