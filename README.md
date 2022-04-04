@@ -60,10 +60,13 @@ Here's a sentence with a footnote. [^1]
 Heading ID	
 ### My Great Heading {#custom-id}
 
-Definition List	term
+Definition List	
+
+term
 : definition
 
 Strikethrough
+
 ~~The world is flat.~~
 
 Task List	
@@ -72,13 +75,17 @@ Task List
 - [ ] Contact the media
 
 Emoji
+
 That is so funny! :joy:
 
 Highlight
+
 I need to highlight these ==very important words==.
 
 Subscript	
+
 H~2~O
 
 Superscript	
+
 X^2^
