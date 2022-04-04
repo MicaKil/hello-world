@@ -52,6 +52,7 @@ Fenced Code Block
   "age": 25
 }
 ```
+
 Footnote	
 Here's a sentence with a footnote. [^1]
 
@@ -80,11 +81,13 @@ That is so funny! :joy:
 
 Highlight
 
-I need to highlight these ==very important words==.
+I need to highlight these 
+==very important words==
+.
 
 Subscript	
 
-H~2~O
+H<sub>2</sub>O
 
 Superscript	
 
